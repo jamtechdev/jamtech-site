@@ -1,0 +1,157 @@
+/* Formpage.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  /* background-image: url('image1.png');  */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+}
+.login_page .form-control {
+  width: 100% !important;
+  height: 100% !important;
+  background: #9a9a9a85 !important;
+  outline: none !important;
+  border: none !important;
+  border-radius: 40px !important;
+  font-size: 16px !important;
+  color: #fff !important;
+  padding: 15px 20px !important;
+  backdrop-filter: blur(10px);
+}
+
+.login_page .form-control::placeholder{
+  color: #fff;
+}
+
+.login_page .form-control:focus{
+  box-shadow: none !important;
+}
+
+.login_page .btn {
+  width: 100%;
+  height: 45px;
+  border-radius: 40px;
+  border: none;
+  outline: none;
+  background: #405cf5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+  margin: 30px 0 0 !important;
+}
+
+.login_page .btn:hover{
+  background: #4c67ff !important;
+} 
+
+.login_inner_sec {
+  max-width: 550px !important;
+
+  margin: auto;
+  width: 100% !important;
+  background: #acacac21;
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  box-shadow: 0px 0px 30px #00000073;
+}
+
+.login_page {
+  background-image: url("../../public/image1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.login_page:before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #00000047;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.login_page > .container{
+  position:relative;
+  z-index: 10;
+}
+.form-title-upper {
+  color: #fff;
+  font-size: 22px;
+  margin: 0 0 30px;
+}
+.form-title-login {
+  color: #fff;
+  font-size: 30px;
+  margin: 0 0 20px;
+  font-weight: 600;
+}
+
+.form-check{
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.banner-content{
+  background-image: url("../../public/herobanner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.banner-content:before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgb(0 0 0 / 64%);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.col-box{
+  z-index: 2;
+  position: relative;
+
+}
+
+.second{
+  background: #fff;
+  padding: 75px !important;
+  height: 100vh;
+}
+.col-box .form-title{
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.col-box .sub__title{
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+  color: #817d7d;
+}
+.form-container input, .form-container select{
+  border: none;
+  border-radius: 3px;
+  background: #eeeeeeb5;
+  padding: 12px;
+}

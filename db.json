@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "email": "divya@gmail.com",
+      "password": "$2a$10$E5AN0iyDrQNR8Y.lmtYi5eRS9gU6UtVFSfKu31UyHr6Fz2FwTZ6J6",
+      "name": "divyanshi pandey",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-11-29T06:34:08.280Z",
+      "id": 1
+    },
+    {
+      "email": "mahi@gmail.com",
+      "password": "$2a$10$Kmr.gYg/NlB1nCCJoSL.JePWp7faQSydbcJ/AcP997ViTr5j.340e",
+      "name": "mahima pandey",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-11-30T07:06:04.316Z",
+      "id": 2
+    },
+    {
+      "email": "abhi@gmail.com",
+      "password": "$2a$10$KSWaO.flr3IfYHtURbXYdeVY.ZXZ.dNleaOUOaa5xe/V3omEye52u",
+      "name": "abhishek dubey",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-11-30T07:07:20.772Z",
+      "id": 3
+    },
+    {
+      "email": "mayank@gmail.com",
+      "password": "$2a$10$YpaYj8FBTvONFM81GLLSu.7kMWucReyioOs1VRkLkVMWBY9fOMyH2",
+      "name": "mayank dwivedi",
+      "gender": "male",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-11-30T07:12:03.072Z",
+      "id": 4
+    },
+    {
+      "email": "tanya@gmail.com",
+      "password": "$2a$10$jqOFuIdf0XKIcZC0MZhKl.8Vw0dRSIlEsmswiuG9A9SsCdpXtr3.m",
+      "name": "tanya pandey",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-11-30T09:23:29.568Z",
+      "id": 5
+    },
+    {
+      "email": "pooja@gmail.com",
+      "password": "$2a$10$9IbH7.4iM8mJO8ocwrTMk.BH76h1WH2RfDGsYZbqpAJp3/W5ziCmO",
+      "name": "pooja singn",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-11-30T10:04:09.347Z",
+      "id": 6
+    },
+    {
+      "email": "adarsh@gmail.com",
+      "password": "$2a$10$n0D/FXFnVf38MCJl5HD7l./yniY.CqpOOH2Vp8hUsbixxvw7fMsAK",
+      "name": "adarsh shukla ",
+      "gender": "male",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-11-30T12:06:14.788Z",
+      "id": 7
+    },
+    {
+      "email": "kriti@gmail.com",
+      "password": "$2a$10$6ju1t9reKxmQ9NPlN0ergONg9SAD2DSz1FFrw.OS2xOXK6AGo97JS",
+      "name": "kriti pandey",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-12-04T12:21:58.345Z",
+      "id": 8
+    },
+    {
+      "email": "pankaj@gmail.com",
+      "password": "$2a$10$XWl/vxMIp.g/vKis9/gXlOA2TwOXolivVZ7beMSDtl9n14V8MfbW2",
+      "name": "pankaj pandey",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-12-06T12:20:40.127Z",
+      "id": 9
+    },
+    {
+      "email": "akash@gmail.com",
+      "password": "$2a$10$dkjENKlPIRf/tJQTlGwejemJaTHlr0UuLVWmRPh0xjYr55DE2NbuW",
+      "name": "akash pandey",
+      "gender": "female",
+      "check": true,
+      "ip": "103.89.61.50",
+      "os": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
+      "time": "2023-12-07T10:24:22.653Z",
+      "id": 10
+    }
+  ],
+  "newuser": [
+    {
+      "id": 1,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 2,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 3,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 4,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 5,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 6,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 7,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 8,
+      "ip": ""
+    },
+    {
+      "id": 9,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 10,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 11,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 12,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 13,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 14,
+      "ip": ""
+    },
+    {
+      "id": 15,
+      "ip": "103.89.61.50"
+    },
+    {
+      "id": 16,
+      "ip": ""
+    }
+  ]
+}
